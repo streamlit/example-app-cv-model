@@ -1,13 +1,12 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]({DEPLOYED_APP_URL)
 
-# 🎈 {APP_EMOJI} {APP_NAME}
+# 📷 Computer vision app
 
-{APP_SHORT_DESCRIPTION}
+This repository contains the source code for a computer vision app built using Streamlit! The app enables a user to upload an image (from file, webcam or URL) and see how two famous pre-trained deep learning models would classify them!
 
-{APP_SCREENSHOT}
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/7164864/160227655-50bdff9e-c14c-45f6-b5db-9d7fafef3f59.png">
 
-{...}
 
 ### Questions? Comments?
 
