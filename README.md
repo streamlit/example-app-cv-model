@@ -1,5 +1,5 @@
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]({DEPLOYED_APP_URL)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-cv-model/main)
 
 # 📷 Computer vision app
 
