@@ -2,3 +2,5 @@ streamlit
 tensorflow
 numpy
 pillow
+
+click==8
